@@ -16,6 +16,6 @@ project_name/
 ├───requirements.txt
 └───README.md
 
-## Additionally we can also add `server`,`static`,`data` and `model` directories to this structure.
+## Additionally we can also add `server`,`static`,`data` and `docs` directories to this structure.
 
 Open to receiving any suggestions and corrections: [Email](mailto:mishrapriyanshu2003@gmail.com)
