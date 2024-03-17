@@ -1,0 +1,29 @@
+# Python virtual environments
+venv/
+.env
+
+# Editor or IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled files
+*.pyc
+__pycache__/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS or editor generated files
+.DS_Store
+Thumbs.db
+
+# Configuration files
+*.ini
+*.cfg
+
+# information files 
+*.egg-info/
+
