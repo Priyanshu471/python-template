@@ -5,17 +5,17 @@
 project_name/
 │
 ├───src/
-│ └───**init**.py
+│ └───__init__.py
 │ └───main.py
 │
 ├───tests/
-│ └───**init**.py
+│ └───__init__.py
 │ └───test_main.py
 │
 ├───setup.py
 ├───requirements.txt
 └───README.md
 ```
-## Additionally we can also add `server`,`static`,`data` and `docs` directories to this structure.
+## We can add `server`, `static`, `data` and `docs` directories to this structure.
 
 Open to receiving any suggestions and corrections: [Email](mailto:mishrapriyanshu2003@gmail.com)
